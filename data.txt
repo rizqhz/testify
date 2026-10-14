@@ -5,3 +5,4 @@ unverified commit from linux (laplace).
 [new]
 verified commit from linux.
 verified commit from windows.
+verified commit from wsl.
